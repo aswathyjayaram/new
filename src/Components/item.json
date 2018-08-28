@@ -1,0 +1,20 @@
+[
+  { "titlename": "MATHRUKA NATURAL WELLNESS STORE" },
+  { "menu1": "HOME" },
+  { "menu2": "GROCERY" },
+  { "menu3": "RECIPES" },
+  { "menu4": "DEALS" },
+  { "option1": "Help" },
+  { "option2": "Store Locator" },
+  { "option3": "Contact Us" },
+  { "option4": "Signin" },
+  { "option5": "Register" },
+  { "item1": "ITEM A" },
+  { "item2": "ITEM B" },
+  { "item3": "ITEM A LONG SUBMENU" },
+  { "item4": "ITEM C" },
+  { "item5": "ITEM D" },
+  { "item6": "ITEM E" },
+  { "item7": "ITEM F" },
+  { "item8": "Powered by: DigitalS" }
+]
